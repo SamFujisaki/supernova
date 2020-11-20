@@ -1,0 +1,21 @@
+{
+  "name": "supernova",
+  "version": "0.0.1",
+  "description": "Elegant and lightweight client using transreceiv",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamFujisaki/supernova.git"
+  },
+  "author": "Samantha Rose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamFujisaki/supernova/issues"
+  },
+  "devDependencies": {
+    "electron": "^11.0.2"
+  }
+}

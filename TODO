@@ -1,0 +1,7 @@
+- make the page look nice
+- implement connection via transreceiv (IP and port entry)
+- create user details system
+- implement sending/receiving messages using transreceiv
+- error handling. lots of it.
+- debugging: the classic mystery game where you are the detective, victim and murderer!
+- who let sam near a keyboard again
